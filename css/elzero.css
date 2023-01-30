@@ -1837,6 +1837,10 @@ header nav .nav-ul>li>a:hover {
     margin-bottom: 30px;
     align-items: center;
 }
+.footer .box .contact span {
+    display: block;
+    padding-bottom: 10px;
+}
 
 @media (max-width: 767px) {
     .footer .box .info {
@@ -1845,11 +1849,6 @@ header nav .nav-ul>li>a:hover {
 
     .footer .box .info i {
         margin: 15px;
-    }
-
-    .footer .box .info span {
-        display: block;
-        margin: 10px;
     }
 }
 
