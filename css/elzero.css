@@ -1837,6 +1837,7 @@ header nav .nav-ul>li>a:hover {
     margin-bottom: 30px;
     align-items: center;
 }
+
 .footer .box .contact span {
     display: block;
     padding-bottom: 10px;
@@ -1868,7 +1869,7 @@ header nav .nav-ul>li>a:hover {
 }
 
 /* End Third Box */
-/* Last Box */
+/* Start Last Box */
 .footer .footer-gallery img {
     width: 78px;
     border: 3px solid white;
@@ -1883,7 +1884,7 @@ header nav .nav-ul>li>a:hover {
     }
 }
 
-/* Last Box */
+/* End Last Box */
 .footer .elzero {
     display: flex;
     justify-content: center;
